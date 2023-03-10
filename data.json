@@ -1,0 +1,13 @@
+{
+  "trip": {
+    "location": { "latitude": 34.05011, "longitude": -6.812845 }
+  },
+  "notifications": [
+    {
+      "id": "hXMkG7zeCkECsfkw8Q9p",
+      "title": "Title 1",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, aliquam?",
+      "date": "2023-03-06"
+    }
+  ]
+}

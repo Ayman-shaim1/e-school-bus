@@ -2,23 +2,23 @@
 
 ## some pictures of the app
 
-<img src="./screenshots/sc1.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc1.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc2.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc2.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc3.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc3.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc4.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc4.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc5.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc5.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc6.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc6.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc7.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc7.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc8.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc8.png" alt="Convertations Screen" width="300" height="600">
 
-<img src="./screenshots/sc9.PNG" alt="Convertations Screen" width="300" height="600">
+<img src="./screenshots/sc9.png" alt="Convertations Screen" width="300" height="600">
 
 
 ## Getting Started
